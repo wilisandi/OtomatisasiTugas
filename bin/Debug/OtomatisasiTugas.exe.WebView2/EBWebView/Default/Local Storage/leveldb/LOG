@@ -1,6 +1,18 @@
-2023/10/19-19:51:26.853 ad8c Reusing MANIFEST C:\Kerja\OtomatisasiTugas\bin\Debug\OtomatisasiTugas.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
-2023/10/19-19:51:26.854 ad8c Recovering log #13
-2023/10/19-19:51:26.857 ad8c Reusing old log C:\Kerja\OtomatisasiTugas\bin\Debug\OtomatisasiTugas.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000013.log 
-2023/10/19-19:57:02.294 5eb8 Level-0 table #17: started
-2023/10/19-19:57:02.297 5eb8 Level-0 table #17: 10674 bytes OK
-2023/10/19-19:57:02.298 5eb8 Delete type=0 #13
+2023/12/18-07:54:55.797 7550 Reusing MANIFEST D:\Proyek\C#\OtomatisasiTugas\bin\Debug\OtomatisasiTugas.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2023/12/18-07:54:55.806 7550 Recovering log #16
+2023/12/18-07:54:55.808 7550 Reusing old log D:\Proyek\C#\OtomatisasiTugas\bin\Debug\OtomatisasiTugas.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000016.log 
+2023/12/18-11:12:22.367 7550 Level-0 table #20: started
+2023/12/18-11:12:22.373 7550 Level-0 table #20: 6318 bytes OK
+2023/12/18-11:12:22.375 7550 Delete type=0 #16
+2023/12/18-11:12:22.375 7558 Compacting 4@0 + 1@1 files
+2023/12/18-11:12:22.379 7558 Generated table #21@0: 37 keys, 2712 bytes
+2023/12/18-11:12:22.379 7558 Compacted 4@0 + 1@1 files => 2712 bytes
+2023/12/18-11:12:22.381 7558 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/18-11:12:22.381 7558 Delete type=2 #8
+2023/12/18-11:12:22.381 7558 Delete type=2 #11
+2023/12/18-11:12:22.382 7558 Delete type=2 #14
+2023/12/18-11:12:22.382 7558 Delete type=2 #17
+2023/12/18-11:12:22.382 7558 Delete type=2 #20
+2023/12/18-12:29:40.370 7558 Level-0 table #23: started
+2023/12/18-12:29:40.375 7558 Level-0 table #23: 8211 bytes OK
+2023/12/18-12:29:40.377 7558 Delete type=0 #19
